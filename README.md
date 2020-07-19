@@ -1,4 +1,4 @@
-Plagiarism detector project is developed using SagaMaker from AWS.
+Plagiarism detector project is developed using SageMaker from AWS.
 
 To perform Feature engineering the following tasks were taken.
 -Clean and pre-process the data.
