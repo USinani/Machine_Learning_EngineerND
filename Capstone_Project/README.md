@@ -12,8 +12,8 @@ Pandas
 matplotlib
 Jupyter Notebook
 scikit-learn
-Anaconda
-Nltk
+Keras
+
 Run
 In a terminal or command window, run one of the following commands:
 
